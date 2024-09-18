@@ -1,0 +1,6 @@
+[
+	{ "no": 10, "descr": "studying", "amount": 500.0 },
+	{ "no": 20, "descr": "food", "amount": 300.0 },
+	{ "no": 15, "descr": "shopping", "amount": 600.0 },
+	{ "no": 30, "descr": "pinics", "amount": 400.0 }
+] 

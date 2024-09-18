@@ -1,0 +1,11 @@
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\bin\Debug\net7.0\expenselib.deps.json
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\bin\Debug\net7.0\expenselib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\bin\Debug\net7.0\expenselib.pdb
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.AssemblyInfoInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.AssemblyInfo.cs
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.csproj.CoreCompileInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\refint\expenselib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\expenselib.pdb
+D:\RUPP\RUPP Y4\OOAD\Test\Expense\library\obj\Debug\net7.0\ref\expenselib.dll
