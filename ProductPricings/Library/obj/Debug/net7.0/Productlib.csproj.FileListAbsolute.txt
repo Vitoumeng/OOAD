@@ -1,0 +1,11 @@
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\bin\Debug\net7.0\Productlib.deps.json
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\bin\Debug\net7.0\Productlib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\bin\Debug\net7.0\Productlib.pdb
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.AssemblyInfoInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.AssemblyInfo.cs
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.csproj.CoreCompileInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\refint\Productlib.dll
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.pdb
+D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\ref\Productlib.dll

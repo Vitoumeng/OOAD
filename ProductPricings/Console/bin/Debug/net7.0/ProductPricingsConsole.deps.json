@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProductPricingsConsole/1.0.0": {
+        "dependencies": {
+          "ProductLib": "1.0.0"
+        },
+        "runtime": {
+          "ProductPricingsConsole.dll": {}
+        }
+      },
+      "ProductLib/1.0.0": {
+        "runtime": {
+          "Productlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductPricingsConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
