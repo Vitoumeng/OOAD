@@ -9,3 +9,15 @@ D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.dl
 D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\refint\Productlib.dll
 D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\Productlib.pdb
 D:\RUPP\RUPP Y4\OOAD\Test\ProductPricings\library\obj\Debug\net7.0\ref\Productlib.dll
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\bin\Debug\net7.0\ProductLib.deps.json
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\bin\Debug\net7.0\ProductLib.dll
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\bin\Debug\net7.0\ProductLib.pdb
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.AssemblyInfoInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.AssemblyInfo.cs
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.csproj.CoreCompileInputs.cache
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.sourcelink.json
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.dll
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\refint\ProductLib.dll
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ProductLib.pdb
+D:\RUPP\RUPP Y4\OOAD\Application\ProductPricings\library\obj\Debug\net7.0\ref\ProductLib.dll

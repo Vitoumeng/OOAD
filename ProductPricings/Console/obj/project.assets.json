@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RUPP\\RUPP Y4\\OOAD\\Test\\ProductPricings\\console\\ProductPricingsConsole.csproj",
+      "projectUniqueName": "D:\\RUPP\\RUPP Y4\\OOAD\\Application\\ProductPricings\\console\\ProductPricingsConsole.csproj",
       "projectName": "ProductPricingsConsole",
-      "projectPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Test\\ProductPricings\\console\\ProductPricingsConsole.csproj",
+      "projectPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Application\\ProductPricings\\console\\ProductPricingsConsole.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Test\\ProductPricings\\console\\obj\\",
+      "outputPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Application\\ProductPricings\\console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\RUPP\\RUPP Y4\\OOAD\\Test\\ProductPricings\\library\\ProductLib.csproj": {
-              "projectPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Test\\ProductPricings\\library\\ProductLib.csproj"
+            "D:\\RUPP\\RUPP Y4\\OOAD\\Application\\ProductPricings\\library\\ProductLib.csproj": {
+              "projectPath": "D:\\RUPP\\RUPP Y4\\OOAD\\Application\\ProductPricings\\library\\ProductLib.csproj"
             }
           }
         }
@@ -68,6 +68,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -89,7 +94,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
