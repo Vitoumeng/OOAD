@@ -11,5 +11,6 @@
             Name = name;
             Category = category;
         }
+        public ProductCreateReq (){ }
     }
 }
